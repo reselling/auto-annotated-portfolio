@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Location",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -27,17 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/photo?fbid=719678608480528&set=a.719678638480525",
+                "icon": "facebook"
             }
         ],
         "styles": {

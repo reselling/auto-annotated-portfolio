@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/67256239_719678611813861_8453223725678985216_n.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Durango Lift
+    subtitle: For all your forklift needs.
     styles:
       self:
         height: auto
@@ -38,6 +33,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |+
+      Here to serve and help you
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -64,7 +62,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Featured Work
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -153,4 +151,6 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+metaTitle: Durango Lift
+metaDescription: Forklift mechanic shop
 ---
